@@ -1,0 +1,117 @@
+{
+  "productNo": 0,
+  "basic": {
+    "productName": "QA신재근 - WAPI",
+    "productType": "N",
+    "dcateCode": 4000352,
+    "shipPolicyNo": 259,
+    "adultLimitYn": "N",
+    "displayYn": "Y",
+    "brandNo": 0,
+    "makerNo": 0
+  },
+  "sale": {
+    "saleStartDate": "2020-01-01 10:00",
+    "saleEndDate": "2021-01-01 10:00",
+    "originPrice": 0,
+    "salePrice": 0,
+    "stockCount": 0,
+    "taxYn": "Y",
+    "purchaseMinCount": 1,
+    "purchaseLimitYn": "N",
+    "purchaseLimitDay": 0,
+    "purchaseLimitCount": 0,
+    "referencePriceType": "WMP",
+    "referencePriceProofType": "R",
+    "referencePriceProofInfo": "123",
+    "referencePriceImg": "http://",
+    "referencePriceDate": "2020-01-01"
+  },
+  "detail": {
+    "basicImgUrl": "https://view-qa.wemakeprice.com/wmp-product/0/466/100054660/pm_ooiwkk2jfe6t.jpg",
+    "listImgUrl": "https://view-qa.wemakeprice.com/wmp-product/0/466/100054660/100054660_wide.jpg",
+    "descType": "IMG",
+    "descImgUrlList": [
+      "https://view-qa.wemakeprice.com/wmp-product/0/466/100054660/100054660_wide.jpg"
+    ],
+    "descHtml": "123"
+  },
+  "option": {
+    "selectOptionUseYn": "N",
+    "textOptionUseYn": "N",
+    "textOptionTitle1": "123",
+    "textOptionTitle2": "123"
+  },
+  "noticeList": [
+       {
+         "productGroupNoticeNo": 56849,
+         "groupNoticeNo": 1,
+         "groupNoticeName": "의류",
+         "noticeList": [
+           {
+             "noticeNo": 1,
+             "noticeName": "제품소재(섬유의 조성 또는 혼용률을 백분율로 표시, 기능성인 경우 성적서 또는 허가서)",
+             "description": "상품상세 설명 참고"
+           },
+           {
+             "noticeNo": 2,
+             "noticeName": "색상",
+             "description": "상품상세 설명 참고"
+           },
+           {
+             "noticeNo": 3,
+             "noticeName": "치수",
+             "description": "상품상세 설명 참고"
+           },
+           {
+             "noticeNo": 4,
+             "noticeName": "제조자, 수입품의 경우 수입자를 함께 표기(병행수입의 경우 병행수입 여부로 대체 가능)",
+             "description": "상품상세 설명 참고"
+           },
+           {
+             "noticeNo": 5,
+             "noticeName": "제조국",
+             "description": "상품상세 설명 참고"
+           },
+           {
+             "noticeNo": 6,
+             "noticeName": "세탁방법 및 취급시 주의사항",
+             "description": "상품상세 설명 참고"
+           },
+           {
+             "noticeNo": 7,
+             "noticeName": "제조연월",
+             "description": "상품상세 설명 참고"
+           },
+           {
+             "noticeNo": 8,
+             "noticeName": "품질보증기준",
+             "description": "상품상세 설명 참고"
+           },
+           {
+             "noticeNo": 9,
+             "noticeName": "A/S 책임자와 전화번호",
+             "description": "위메프 고객센터 1588-4763"
+           }
+         ]
+       }
+     ],
+  "etc": {
+    "parallelImportYn": "N",
+    "parallelImportUrl": "http://",
+    "kcKidIsCertification": "N",
+    "kcLifeIsCertification": "N",
+    "kcElectricIsCertification": "N",
+    "kcReportIsCertification": "N",
+    "kcLifeChemistryIsCertification": "N",
+    "sellerProdCode": "123",
+    "priceComparisonSiteYn": "N",
+    "keywordPriceComparisonSite": "123",
+    "keywordWemakeprice": "123",
+    "isbn13": "123",
+    "isbn10": "123",
+    "labelNoList": [
+      0
+    ]
+  }
+}
